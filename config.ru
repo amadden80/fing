@@ -1,2 +1,2 @@
-require './main'
+require './fing'
 run Sinatra::Application
